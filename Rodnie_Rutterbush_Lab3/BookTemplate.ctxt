@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=authorLast\ authorFirst\ ISBN\ bookTitle\ date\ numPages
+comment0.target=BookTemplate(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+comment1.params=authorLast\ authorFirst\ ISBN\ bookTitle\ date\ numPages
+comment1.target=void\ printBook(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ int,\ int)
+numComments=2
